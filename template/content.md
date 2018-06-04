@@ -7,6 +7,8 @@
 
 * Organization is top to bottom, left to right
 
+\\[ c=\sqrt{a^2}\\]
+\\( c=\sqrt{a^2}\\)
 
 
 
